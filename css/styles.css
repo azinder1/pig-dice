@@ -1,0 +1,12 @@
+.rollNumber {
+  height: 100px;
+  font-size: 70px;
+}
+body {
+  background-color: lightpink;
+}
+.jumbotron {
+text-align: center;
+background-color: #660033;
+color: white;
+}
